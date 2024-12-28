@@ -1,3 +1,4 @@
+Made by Alisher Mukhamedov and Yerkanat Manasov
 Deploying and Interacting with Smart Contracts
 
 In this assignment, we will walk through the process of deploying a smart contract to a development network, generating the smart contract's ABI and bytecode, and interacting with the smart contract using Web3.js. We will cover the basic concepts of Ethereum, the Solidity smart contract programming language, the Hardhat development environment, and Web3.js.
@@ -11,3 +12,7 @@ In this assignment, we will walk through the process of deploying a smart contra
 ![6](https://github.com/user-attachments/assets/9512e33c-70b8-4c9a-8a10-74b3d99cd3fc)
 ![7](https://github.com/user-attachments/assets/4b145952-ffbd-4507-9518-570e3ebd7b89)
 ![8](https://github.com/user-attachments/assets/5c2b1038-90f2-4734-a91f-1d8cdc99886a)
+![metamask](https://github.com/user-attachments/assets/92bfee37-b291-4a95-a9ce-697a419e946e)
+![depolyment1](https://github.com/user-attachments/assets/5e8f722f-0269-47ca-a46e-44b40397c5af)
+![depolyment2](https://github.com/user-attachments/assets/bef090d6-10ce-4951-b1a9-c2d887412373)
+
